@@ -1,0 +1,1 @@
+hi<?php /**PATH C:\Users\saisa\Desktop\DONOR LINK\chat\chatbot\resources\views/welcome.blade.php ENDPATH**/ ?>
